@@ -5,7 +5,7 @@
 
 [![NPM](https://nodei.co/npm/m3u8-parser.png?downloads=true&downloadRank=true)](https://nodei.co/npm/m3u8-parser/)
 
-m3u8 parser - test
+m3u8 parser
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
